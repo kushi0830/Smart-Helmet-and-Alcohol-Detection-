@@ -130,6 +130,9 @@ Electronics and Communication Engineering (ECE)
 
 Please open **Simulation.mp4** in this repository to watch the complete project demonstration.
 
-https://github.com/user-attachments/assets/7e35323f-5b09-4a70-81d9-e172b29da0e1
+
+https://github.com/user-attachments/assets/1c6a33fb-ccdc-487a-9205-2a44f5fedf41
+
+
 
 
