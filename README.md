@@ -124,3 +124,12 @@ ALCOHOL DETECTED
 **Anaparthi Gnana Kusuma**
 
 Electronics and Communication Engineering (ECE)
+
+
+## 🎥 Simulation Video
+
+Please open **Simulation.mp4** in this repository to watch the complete project demonstration.
+
+https://github.com/user-attachments/assets/7e35323f-5b09-4a70-81d9-e172b29da0e1
+
+
